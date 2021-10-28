@@ -26,3 +26,5 @@ testdata/tern.conf
 /tmp
 
 .idea/*
+
+vendor
